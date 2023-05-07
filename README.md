@@ -1,1 +1,1 @@
-# unityProject1
+# Exercises I learned during Unity tutorials
