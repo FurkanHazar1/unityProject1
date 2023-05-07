@@ -1,1 +1,1 @@
-# One of the exercises I took during Unity tutorials
+# Exercises I learned during Unity tutorials
